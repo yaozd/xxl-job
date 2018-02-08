@@ -33,3 +33,19 @@ https://github.com/xuxueli/xxl-job/issues/223
 在adminAddresses 设置成 域名地址 的情况下，这种错误才会发生，1个小时内不定时发生好几次。。。
 
 5，
+参考文章：
+分布式任务调度平台XXL-JOB
+http://www.xuxueli.com/xxl-job/#/
+==
+yaozd/xxl-job: A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+https://github.com/yaozd/xxl-job
+==
+分布式任务调度平台XXL-JOB - 许雪里 - 博客园--(许雪里是xxl-job的作者，特别推荐-byArvin)
+https://www.cnblogs.com/xuxueli/p/5021979.html
+==
+运行过程中不时报错: java.lang.ClassCastException: java.lang.String cannot be cast to com.xxl.job.core.rpc.codec.RpcResponse · Issue #223 · xuxueli/xxl-job
+https://github.com/xuxueli/xxl-job/issues/223
+==
+Releases · xuxueli/xxl-job-(稳定版
+https://github.com/xuxueli/xxl-job/releases
+==
