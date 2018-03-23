@@ -1,3 +1,5 @@
+mvn clean
+mvn package
 
 2018-02-08 -by arvin
 --------------------
@@ -23,7 +25,12 @@ xxl.job.admin.addresses=改为正确的URL
 JobHandler(value="shardingJobHandler")
 JobHandler的名字是value的值=shardingJobHandler
 3，
-在线Cron表达式生成器
+Cron表达式在线工具---无广告
+http://www.pppet.net/
+crontab表达式
+https://tool.lu/crontab/
+==
+在线Cron表达式生成器--不推荐使用
 http://cron.qqe2.com/
 4，
 运行过程中不时报错: java.lang.ClassCastException: java.lang.String cannot be cast to com.xxl.job.core.rpc.codec.RpcResponse #223
