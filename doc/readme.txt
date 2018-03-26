@@ -21,6 +21,9 @@ java.lang.RuntimeException: RpcResponse byte[] is null
 解决方案：
 xxl.job.admin.addresses=改为正确的URL
 ====================================
+子程序可以使用永久不执行的cron的示例：
+0 0 3 1 1 ? 2099
+====================================
 2，
 JobHandler(value="shardingJobHandler")
 JobHandler的名字是value的值=shardingJobHandler
